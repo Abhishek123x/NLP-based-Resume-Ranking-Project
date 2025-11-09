@@ -1,0 +1,9 @@
+spacy
+pdfplumber
+nltk
+tqdm
+matplotlib
+scikit-learn
+numpy
+pandas
+python-docx
